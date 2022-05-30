@@ -16,6 +16,5 @@ Es la aplicacion movil de una lista de musica y un album de fotos.
 - Puede tomar fotos para posterior guardarlas dentro de la aplicacion. Asi cerremos la app las fotos seguiran ahi.
 -
 ![image](https://user-images.githubusercontent.com/58180852/170907923-eb816f14-1833-4ab4-b8d0-c3eab3076420.png)
--
 ![image](https://user-images.githubusercontent.com/58180852/170907945-c437712d-d18a-47b7-90b2-8c1df868017f.png)
 
