@@ -1,6 +1,10 @@
 # MiPrimeraAppMovil
 Es la aplicacion movil de una lista de musica y un album de fotos.
 
+### INTEGRANTES:
+-Wendy Palomo
+-Roberth Pincha
+
 ## Instalar Aplicacion
 - Descargar el archivo .apk y ejecutar.
 - ![image](https://user-images.githubusercontent.com/58180852/170907681-fbbf07be-bee1-4c5f-a7dc-675af34a08aa.png)
